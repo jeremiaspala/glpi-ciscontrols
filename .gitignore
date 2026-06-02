@@ -1,0 +1,9 @@
+*.log
+files/
+*.cache
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+setup.php.bak
