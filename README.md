@@ -24,7 +24,11 @@ Plugin para GLPI que permite gestionar controles de seguridad basados en el fram
 - **Configuración** — nivel IG objetivo, nombre de empresa, email de compliance
 
 ---
-
+<img width="1920" height="901" alt="ciscontrols_1" src="https://github.com/user-attachments/assets/6abdab53-5f18-4f94-a443-d00a6cc841d4" />
+<img width="1904" height="924" alt="ciscontrols_2" src="https://github.com/user-attachments/assets/0135dd98-7b03-4b33-a44e-9a1e25f69739" />
+<img width="1901" height="676" alt="ciscontrols_3" src="https://github.com/user-attachments/assets/e1495b6f-db58-4411-af02-c7c68330430e" />
+<img width="1907" height="680" alt="ciscontrols_4" src="https://github.com/user-attachments/assets/a3ed8eeb-ca55-46c2-9442-fea447b4b925" />
+<img width="1914" height="748" alt="ciscontrols_5" src="https://github.com/user-attachments/assets/94015d26-5486-4861-b8ed-532fcca9d441" />
 ## Instalación
 
 ### Requisitos previos
